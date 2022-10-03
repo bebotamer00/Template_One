@@ -84,6 +84,9 @@
   .header .links {
     position: relative;
   }
+  .header .container .links .icon {
+    font-size: 23px;
+  }
   .header .links ul {
     list-style: none;
     margin: 0;
